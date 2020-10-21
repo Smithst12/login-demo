@@ -28,4 +28,3 @@ username varchar(20) NOT NULL,
 password varchar(20) NOT NULL,
 PRIMARY KEY(userID)
 );
-
